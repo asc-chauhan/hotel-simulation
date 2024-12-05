@@ -1,0 +1,8 @@
+1. Veg Burger 30 INR
+2. Chicken Burger 40 INR
+3. Ostrich Eggs 25 INR
+4. Egg Frankie 30 INR
+5. Panner pakoda 80 INR
+6. Shawarma 100 INR
+7. Fish chips 250 INR
+8. Punugulu 40 INR
